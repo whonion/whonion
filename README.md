@@ -4,7 +4,7 @@
   <div style="display: flex; align-items: flex-start;">
     <img align="top" src="https://komarev.com/ghpvc/?username=whonion&color=brightgreen" height='35'/>
   </div>
-    <img src="https://raw.githubusercontent.com/whonion/whonion/main/emoji_back.png" width="30%" height="30%"></img>
+    <img src="https://raw.githubusercontent.com/whonion/whonion/main/emoji_back.png" width="50%" height="50%"></img>
 </div>
 
 <h3 align="left">Used Languages and Tools:</h3>
