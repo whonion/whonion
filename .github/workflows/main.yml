@@ -16,7 +16,8 @@ jobs:
   generate:
     permissions: 
       contents: write
-    runs-on: [self-hosted, linux, x64]
+    runs-on: ubuntu-latest
+    #[self-hosted, linux, x64]
     timeout-minutes: 5
     
     steps:
