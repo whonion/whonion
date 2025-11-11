@@ -29,8 +29,7 @@
   <br />
 
   <!-- Profile views counter -->
-  <img src="https://komarev.com/ghpvc/?username=whonion&color=brightgreen" height="30" />
-
+  <img src="https://komarev.com/ghpvc/?username=whonion&color=brightgreen" height="400" width="250"/>
   <br />
 
   <!-- Snake GitHub contribution animation -->
